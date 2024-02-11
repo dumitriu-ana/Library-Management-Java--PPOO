@@ -1,0 +1,3 @@
+# Java Library Management (Gestionare Bibliotecă în Java)
+The "Java Library Management" project is a simple application designed to efficiently manage a library. It provides essential features such as adding books and subscribers, borrowing and returning books, searching for books and subscribers, displaying books borrowed by a subscriber, and saving data to files.<br>
+Proiectul "Gestionare Bibliotecă în Java" este o aplicație simplă creată pentru a gestiona eficient o bibliotecă. Aceasta oferă funcționalități esențiale precum adăugarea de cărți și abonați, împrumutul și returnarea cărților, căutarea cărților și abonaților, afișarea cărților împrumutate de către un abonat și salvarea datelor în fișiere.<br>
